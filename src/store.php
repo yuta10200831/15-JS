@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $title = filter_input(INPUT_POST, 'title');
 $text = filter_input(INPUT_POST, 'text');
